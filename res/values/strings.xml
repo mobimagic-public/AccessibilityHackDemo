@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">littlerabbit</string>
+    <string name="suggest">Hello, I\'ll keep you password safe, you only need to do is to enable the accessibility for me, Just click the bottom button, thx!!!</string>
+    <string name="enable">Enable the accessibility for me, I\'ll keep your password safe!!!</string>
+</resources>
